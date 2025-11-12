@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/abduls_taxi/static/css/main.a844bb2f.css",
-    "main.js": "/abduls_taxi/static/js/main.5cdf3a9b.js",
-    "static/js/453.e59e5c3a.chunk.js": "/abduls_taxi/static/js/453.e59e5c3a.chunk.js",
-    "index.html": "/abduls_taxi/index.html",
-    "main.a844bb2f.css.map": "/abduls_taxi/static/css/main.a844bb2f.css.map",
-    "main.5cdf3a9b.js.map": "/abduls_taxi/static/js/main.5cdf3a9b.js.map",
-    "453.e59e5c3a.chunk.js.map": "/abduls_taxi/static/js/453.e59e5c3a.chunk.js.map"
+    "main.css": "//abdultaxiswitney.co.uk/static/css/main.a844bb2f.css",
+    "main.js": "//abdultaxiswitney.co.uk/static/js/main.574d849e.js",
+    "static/js/453.e59e5c3a.chunk.js": "//abdultaxiswitney.co.uk/static/js/453.e59e5c3a.chunk.js",
+    "index.html": "//abdultaxiswitney.co.uk/index.html",
+    "main.a844bb2f.css.map": "//abdultaxiswitney.co.uk/static/css/main.a844bb2f.css.map",
+    "main.574d849e.js.map": "//abdultaxiswitney.co.uk/static/js/main.574d849e.js.map",
+    "453.e59e5c3a.chunk.js.map": "//abdultaxiswitney.co.uk/static/js/453.e59e5c3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a844bb2f.css",
-    "static/js/main.5cdf3a9b.js"
+    "static/js/main.574d849e.js"
   ]
 }
