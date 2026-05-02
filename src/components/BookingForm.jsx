@@ -15,7 +15,7 @@ export default function BookingForm() {
   const [isSubmitting, setIsSubmitting] = useState(false);
 
   // Replace this with your actual Google Apps Script Web App URL
-  const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbw8-Qex9PgBRZYM7r7qr5NjOLmhdkB-je7cxK-sCH1Jhd3M2oIwEY9LbTASnr0CQt-Y/exec";
+  const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwyt6EHHO8EbIt-Ml6YIulb8CqpUs8TCV1cs4wsfPiXEOimYdLnfnXDdxvGhWAJCwA/exec";
 
   function handleChange(e) {
     setForm({ ...form, [e.target.name]: e.target.value });
